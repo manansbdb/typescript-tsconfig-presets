@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="TypeScript tsconfig Presets banner"><defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#3178c6"/><stop offset="55%" stop-color="#235a97"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient></defs><rect width="1200" height="200" fill="url(#bg)"/><circle cx="140" cy="100" r="55" fill="#22c55e" opacity="0.35"/><circle cx="1060" cy="100" r="70" fill="#f59e0b" opacity="0.3"/><rect x="220" y="40" width="40" height="120" rx="8" fill="#235a97" opacity="0.35"/><rect x="280" y="60" width="40" height="100" rx="8" fill="#f59e0b" opacity="0.35"/><rect x="880" y="50" width="40" height="110" rx="8" fill="#22c55e" opacity="0.35"/><rect x="940" y="35" width="40" height="125" rx="8" fill="#235a97" opacity="0.35"/><text x="600" y="95" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="42" font-weight="700" fill="#fff">TypeScript tsconfig Presets</text><text x="600" y="140" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="20" fill="#fff" opacity="0.9">manansbdb · docs · EN + PT · MIT</text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-label="Typescript Tsconfig Presets banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="480" fill="url(#bg)"/>
+  <circle cx="1320" cy="70" r="190" fill="#38bdf8" opacity="0.22"/>
+  <circle cx="80" cy="420" r="150" fill="#22c55e" opacity="0.18"/>
+  <circle cx="980" cy="420" r="110" fill="#f8fafc" opacity="0.08"/>
+  <g fill="none" stroke="#e2e8f0" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M36 36h28M36 36v28"/><path d="M1564 36h-28M1564 36v28"/>
+    <path d="M36 444h28M36 444v-28"/><path d="M1564 444h-28M1564 444v-28"/>
+  </g>
+  <text x="72" y="150" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Typescript Tsconfig Presets</text>
+  <text x="72" y="210" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#e0f2fe">Strict tsconfig bases for apps and libraries.</text>
+  <g>
+    <rect x="72" y="250" rx="16" ry="16" width="210" height="56" fill="#022c22" stroke="#22c55e" stroke-width="2"/>
+    <text x="177" y="286" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#bbf7d0">MIT · EN + PT</text>
+    <rect x="300" y="250" rx="16" ry="16" width="210" height="56" fill="#1e1b4b" stroke="#38bdf8" stroke-width="2"/>
+    <text x="405" y="286" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#ddd6fe">Zero paywall</text>
+  </g>
+  <g>
+    <rect x="980" y="120" width="240" height="120" rx="22" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <text x="1100" y="175" text-anchor="middle" font-size="34">✨</text>
+    <text x="1100" y="215" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f8fafc">Clone &amp; use</text>
+    <rect x="1240" y="160" width="240" height="120" rx="22" fill="url(#card)" stroke="#22c55e" stroke-width="2"/>
+    <text x="1360" y="215" text-anchor="middle" font-size="34">🚀</text>
+    <text x="1360" y="255" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f8fafc">Ship faster</text>
+  </g>
+  <text x="72" y="360" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#cbd5e1">manansbdb · open source · practical kits</text>
+</svg>
